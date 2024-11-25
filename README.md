@@ -5,13 +5,13 @@
 <br>
 <div>
  <div>
-  <img src="" align="left" width="200px">
-  <p align="right">
-
-   &nbsp;
+  <img src="/img/cat.gif" align="left" width="200px">
+  <p align="center">
     
    &nbsp;&#10022; A second-year student at ITMO University
 
+   &nbsp;&#10022; По кайфу делаю короче
+   
    &nbsp;&#10022; Loves programming, games and watch anime.
    
    &nbsp;&#10022; Nice to meet you!
@@ -31,3 +31,4 @@
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2474241114675393543/268DCA8EF0036442273F479EAC3963FAF48CBF97/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center">
