@@ -8,8 +8,6 @@
   <img src="/img/загруженное.gif" align="left" width="500px">
   <p align="center">
    
-   &nbsp;&#10022; Third year Student
-   
    &nbsp;&#10022; По кайфу делаю короче
    
   </p>
